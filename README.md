@@ -1,0 +1,20 @@
+# Seasons of Love
+
+A Python program developed for the CS50P problem set that calculates the number of minutes elapsed since a user's date of birth and converts the result into words.
+
+## Requirements
+- Python 3
+- inflect
+
+## How to Run
+Install the dependency:
+```bash
+python -m pip install inflect
+```
+
+Run the program:
+```bash
+python seasons.py
+```
+
+Enter your date of birth in `YYYY-MM-DD` format when prompted.
